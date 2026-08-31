@@ -3,8 +3,7 @@
   "name": "Bíblia Nova Geração",
   "abbreviation": "BNG",
   "language": "pt-BR",
+  "license": "Creative Commons 1.0",
   "format": "single",
   "file": "bng.json"
-}
-  ]
 }
