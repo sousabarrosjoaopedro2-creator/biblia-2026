@@ -1,0 +1,13 @@
+{
+  "translations": [
+    {
+      "id": "bng",
+      "name": "Bíblia Nova Geração",
+      "abbreviation": "BNG",
+      "language": "pt-BR",
+      "license": "Creative Commons 1.0",
+      "copyright": "© Editora João P. Barros",
+      "year": 2026
+    }
+  ]
+}
