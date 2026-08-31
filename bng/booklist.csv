@@ -1,0 +1,28 @@
+book_id,book_name,abbreviation,chapters
+mat,Mateus,Mt,28
+mrk,Marcos,Mc,16
+luk,Lucas,Lc,24
+jhn,João,Jo,21
+act,Atos,At,28
+rom,Romanos,Rm,16
+1co,1 Coríntios,1Co,16
+2co,2 Coríntios,2Co,13
+gal,Gálatas,Gl,6
+eph,Efésios,Ef,6
+php,Filipenses,Fp,4
+col,Colossenses,Cl,4
+1th,1 Tessalonicenses,1Ts,5
+2th,2 Tessalonicenses,2Ts,3
+1ti,1 Timóteo,1Tm,6
+2ti,2 Timóteo,2Tm,4
+tit,Tito,Tt,3
+phm,Filemom,Fm,1
+heb,Hebreus,Hb,13
+jas,Tiago,Tg,5
+1pe,1 Pedro,1Pe,5
+2pe,2 Pedro,2Pe,3
+1jn,1 João,1Jo,5
+2jn,2 João,2Jo,1
+3jn,3 João,3Jo,1
+jud,Judas,Jd,1
+rev,Apocalipse,Ap,22
